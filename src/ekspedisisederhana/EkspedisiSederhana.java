@@ -9,7 +9,7 @@ package ekspedisisederhana;
  */
 public class EkspedisiSederhana {
     
-    public static void main(String[]args) throws Exception{
+    public static void main(String[]args){
         Resi R201504170001 = new Resi();
         
         R201504170001.setPengirimNama("Ahmad");
